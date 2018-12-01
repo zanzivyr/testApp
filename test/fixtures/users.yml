@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  date_joined: 2018-11-19
+  bio: MyString
+
+two:
+  name: MyString
+  date_joined: 2018-11-19
+  bio: MyString
